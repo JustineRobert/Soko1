@@ -1,14 +1,18 @@
 import React from 'react';
 import '.Header.css';
+import SearchIcon from '@material-ui/icons/search';
 
 function Header() {
   return (
     <div className='header'>
       <img
-       className='header__logo' src='' alt='Soko' 
+       className='header__logo' src='images/logo-img.png' alt='Soko' 
       />
-      <div className='header__search' input type='text'>
-      {/* Logo */}
+      <div className='header__search'>
+      <input
+      className= 'header__searchInput' type='text'/>
+      <SearchIcon
+      className='header__searchIcon'/>
       </div>
 
       <div className='header__nav'>
