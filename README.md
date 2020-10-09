@@ -4,7 +4,7 @@ Soko is a Swahili word literally translated to mean Market and as an Africa, we'
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App][(https://github.com/facebook/create-react-app)].
 
 ## Available Scripts
 
