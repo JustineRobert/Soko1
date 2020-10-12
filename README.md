@@ -1,14 +1,6 @@
-#About the Project/Project Inspiration
-
-Soko is a Swahili word literally translated to mean Market and as an Africa, we're really blessed to have a wide variety of products ranging from fresh organic foods, cash crops like cashew nuts, cotton, coffee,  Cocoa, Fresh Vanilla, Red Bird eye chilies, etc., and to natural resources like gold in the Congo, copper, iron, oil & gas, etc., and yet the other continents still define us as the poorest continent on the globe! We can put an end to this by showcasing the massive variety of African products in one store that we have in an online available ready market which can be accessed anywhere by anyone looking for an African product on the globe.
-
-
-
-This project was bootstrapped with [Create React App][(https://github.com/facebook/create-react-app)].
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e56cbacd6914f08bf40bd6333a7e4ed)](https://app.codacy.com/manual/JustineRobert/Soko?utm_source=github.com&utm_medium=referral&utm_content=JustineRobert/Soko&utm_campaign=Badge_Grade_Settings)
 
 In the project directory, you can run:
 
